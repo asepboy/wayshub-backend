@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: wayshub-backend
+  annotations:
+    github.com/project-slug: asepboy/wayshub-backend
+spec:
+  type: other
+  lifecycle: unknown
+  owner: asep
